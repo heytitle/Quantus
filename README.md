@@ -110,7 +110,7 @@ captures to what extent explanations are concise i.e., that few features are use
 tests to what extent explanations deteriorate as model parameters are increasingly randomised
 <ul>
 <li><a href="https://arxiv.org/abs/1810.03292">Model Parameter Randomisation</a>: randomises the parameters of single model layers in a cascading or independent way and measures the distance of the respective explanation to the original explanation
-<li><a href="https://arxiv.org/abs/1912.09818">andom Logit Test</a>: computes for the distance between the original explanation and the explanation for a random other class
+<li><a href="https://arxiv.org/abs/1912.09818">Random Logit Test</a>: computes for the distance between the original explanation and the explanation for a random other class
 </ul>
 </details>
 
